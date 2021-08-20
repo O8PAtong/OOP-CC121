@@ -1,2 +1,2 @@
-# OOP-CC121
+# OOP-CS121
 Assignment
